@@ -1,0 +1,9 @@
+{
+    "title": "Select Your Mood",
+    "language": "Language",
+    "happy": "You're happy!",
+    "sad": "You're sad.",
+    "angry": "You're angry.",
+    "calm": "You're calm.",
+    "description": "MoodPalette offers a dynamic user experience that changes based on your mood. Choose an emoji above and enjoy the matching atmosphere."
+}
