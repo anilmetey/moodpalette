@@ -18,12 +18,7 @@ export default function Home() {
         AMY Projects 💻
       </div>
 
-      {/* ✅ Sağ üst köşe: TR / EN dil seçici */}
-      <div className="fixed top-4 right-4 flex gap-2 text-lg">
-        <button onClick={() => changeLanguage('tr')} className="hover:opacity-100 opacity-70">🇹🇷</button>
-        <button onClick={() => changeLanguage('en')} className="hover:opacity-100 opacity-70">🇬🇧</button>
-      </div>
-
+   
       <MoodSelector />
 
       <p className="mt-12 text-sm text-gray-300 max-w-md">
